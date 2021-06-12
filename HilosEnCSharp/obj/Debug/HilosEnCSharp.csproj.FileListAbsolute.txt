@@ -1,0 +1,7 @@
+C:\Users\miche\source\repos\HilosEnCSharp\HilosEnCSharp\bin\Debug\HilosEnCSharp.exe.config
+C:\Users\miche\source\repos\HilosEnCSharp\HilosEnCSharp\bin\Debug\HilosEnCSharp.exe
+C:\Users\miche\source\repos\HilosEnCSharp\HilosEnCSharp\bin\Debug\HilosEnCSharp.pdb
+C:\Users\miche\source\repos\HilosEnCSharp\HilosEnCSharp\obj\Debug\HilosEnCSharp.csprojAssemblyReference.cache
+C:\Users\miche\source\repos\HilosEnCSharp\HilosEnCSharp\obj\Debug\HilosEnCSharp.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\HilosEnCSharp\HilosEnCSharp\obj\Debug\HilosEnCSharp.exe
+C:\Users\miche\source\repos\HilosEnCSharp\HilosEnCSharp\obj\Debug\HilosEnCSharp.pdb
